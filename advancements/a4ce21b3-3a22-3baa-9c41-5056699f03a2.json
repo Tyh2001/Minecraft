@@ -509,6 +509,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2023-04-04 21:44:00 +0800",
       "cooked_mutton": "2023-03-31 20:48:38 +0800",
       "cooked_beef": "2023-04-01 14:38:13 +0800",
       "cooked_cod": "2023-04-04 11:54:11 +0800",
@@ -3804,6 +3805,12 @@
   "minecraft:recipes/misc/gold_ingot_from_smelting_nether_gold_ore": {
     "criteria": {
       "has_nether_gold_ore": "2023-04-04 11:51:14 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_warped_hyphae": {
+    "criteria": {
+      "has_log": "2023-04-04 21:54:54 +0800"
     },
     "done": true
   },
