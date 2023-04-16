@@ -4509,25 +4509,37 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2023-04-15 21:05:51 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2023-04-15 21:36:01 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2023-04-15 21:36:01 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_carpet": {
     "criteria": {
       "has_red_wool": "2023-04-15 21:51:24 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/orange_candle": {
-    "criteria": {
-      "has_orange_dye": "2023-04-15 22:41:35 +0800"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2023-04-15 22:32:28 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2023-04-15 21:51:24 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
     "criteria": {
       "has_red_wool": "2023-04-15 21:51:24 +0800"
     },
@@ -4539,27 +4551,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bricks": {
-    "criteria": {
-      "has_brick": "2023-04-15 21:36:01 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2023-04-15 22:09:00 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/blue_dye_from_cornflower": {
-    "criteria": {
-      "has_cornflower": "2023-04-15 22:41:06 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/flower_pot": {
-    "criteria": {
-      "has_brick": "2023-04-15 21:36:01 +0800"
     },
     "done": true
   },
@@ -4569,9 +4563,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_bed": {
+  "minecraft:husbandry/tame_an_animal": {
     "criteria": {
-      "has_red_wool": "2023-04-15 21:51:24 +0800"
+      "tamed_animal": "2023-04-15 22:32:28 +0800"
     },
     "done": true
   },
@@ -4581,9 +4575,21 @@
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
-      "has_log": "2023-04-15 21:05:51 +0800"
+      "has_cornflower": "2023-04-15 22:41:06 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_candle": {
+    "criteria": {
+      "has_orange_dye": "2023-04-15 22:41:35 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2023-04-16 11:51:27 +0800"
     },
     "done": true
   },
