@@ -520,7 +520,9 @@
       "cooked_mutton": "2023-03-31 20:48:38 +0800",
       "cooked_beef": "2023-04-01 14:38:13 +0800",
       "baked_potato": "2023-04-06 12:50:26 +0800",
+      "apple": "2023-04-18 10:01:19 +0800",
       "cooked_cod": "2023-04-04 11:54:11 +0800",
+      "pumpkin_pie": "2023-04-18 12:05:11 +0800",
       "bread": "2023-04-14 12:28:45 +0800",
       "cooked_chicken": "2023-04-01 16:10:26 +0800",
       "cooked_salmon": "2023-04-01 14:33:03 +0800",
@@ -560,6 +562,7 @@
       "minecraft:witch": "2023-04-06 10:58:13 +0800",
       "minecraft:wither_skeleton": "2023-04-02 11:47:03 +0800",
       "minecraft:husk": "2023-04-06 11:04:46 +0800",
+      "minecraft:ender_dragon": "2023-04-18 12:11:02 +0800",
       "minecraft:shulker": "2023-04-04 10:55:36 +0800",
       "minecraft:cave_spider": "2023-04-06 14:07:09 +0800",
       "minecraft:piglin": "2023-04-03 10:07:47 +0800",
@@ -4641,12 +4644,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
-    "criteria": {
-      "has_copper_ore": "2023-04-17 10:06:07 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2023-04-17 09:37:42 +0800"
@@ -4659,9 +4656,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
     "criteria": {
-      "has_coal_ore": "2023-04-17 10:42:07 +0800"
+      "has_copper_ore": "2023-04-17 10:06:07 +0800"
     },
     "done": true
   },
@@ -4671,9 +4668,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2023-04-17 10:42:07 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
     "criteria": {
       "has_coal_ore": "2023-04-17 10:42:07 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2023-04-18 12:00:53 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2023-04-18 12:00:53 +0800"
+    },
+    "done": true
+  },
+  "minecraft:end/respawn_dragon": {
+    "criteria": {
+      "summoned_dragon": "2023-04-18 12:06:45 +0800"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2023-04-18 12:11:02 +0800"
     },
     "done": true
   },
