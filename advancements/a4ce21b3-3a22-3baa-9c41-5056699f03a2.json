@@ -519,11 +519,13 @@
       "cooked_porkchop": "2023-04-04 21:44:00 +0800",
       "cooked_mutton": "2023-03-31 20:48:38 +0800",
       "cooked_beef": "2023-04-01 14:38:13 +0800",
+      "chorus_fruit": "2023-04-27 21:38:21 +0800",
       "baked_potato": "2023-04-06 12:50:26 +0800",
       "apple": "2023-04-18 10:01:19 +0800",
       "cooked_cod": "2023-04-04 11:54:11 +0800",
       "pumpkin_pie": "2023-04-18 12:05:11 +0800",
       "bread": "2023-04-14 12:28:45 +0800",
+      "cookie": "2023-04-27 17:08:44 +0800",
       "cooked_chicken": "2023-04-01 16:10:26 +0800",
       "cooked_salmon": "2023-04-01 14:33:03 +0800",
       "carrot": "2023-03-31 21:05:06 +0800"
@@ -4701,6 +4703,12 @@
   "minecraft:end/kill_dragon": {
     "criteria": {
       "killed_dragon": "2023-04-18 12:11:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2023-04-27 16:37:00 +0800"
     },
     "done": true
   },
